@@ -1,4 +1,4 @@
 # be-the-hero
 
-Reactjs
-Node
+* Reactjs
+* Node
